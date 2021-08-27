@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amethysta</item>
+        <item>@font/anonymous_pro_bold</item>
+        <item>@font/arsenal</item>
+        <item>@font/baloo</item>
+        <item>@font/carter_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/galindo</item>
+    </array>
+</resources>

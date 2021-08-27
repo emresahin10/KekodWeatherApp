@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KekodWeatherApp</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="rainy">Rainy</string>
+</resources>
